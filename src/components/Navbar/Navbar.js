@@ -10,7 +10,7 @@ import Searchbar from "../../components/Searchbar/Searchbar";
 const Navbar = () => {
   return (
     <div className="Navbar">
-      <NavElement collapseOnSelect expand="lg" bg="dark" variant="dark">
+      <NavElement collapseOnSelect expand="sm" bg="dark" variant="dark">
         <NavElement.Brand>Social Media</NavElement.Brand>
         <NavElement.Toggle aria-controls="responsive-navbar-nav" />
         <NavElement.Collapse id="responsive-navbar-nav">
