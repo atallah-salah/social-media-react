@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 
 // import dependencies
-import { Route, Link, BrowserRouter as Router } from "react-router-dom";
+import { Route, BrowserRouter as Router } from "react-router-dom";
 
 // import pages
 import Auth from "./pages/Auth/Auth";
